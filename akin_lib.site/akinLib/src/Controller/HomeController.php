@@ -20,4 +20,14 @@ class HomeController
     public function homepage() {
         return new Response('OMG!! New page is here! WooHooo');
     }
+
+    /**
+     * @Route("/public/{slug}")
+     */
+    public function publicpage($slug) {
+        return new Response(sprintf(
+            'This is a public page: %s',
+            $slug)
+        );
+    }
 }
