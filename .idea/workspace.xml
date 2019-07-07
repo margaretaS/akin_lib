@@ -7,10 +7,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/akin_lib.site/akinLib/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/akin_lib.site/akinLib/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/akin_lib.site/akinLib/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/akin_lib.site/akinLib/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/akin_lib.site/akinLib/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/akin_lib.site/akinLib/config/bundles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/akin_lib.site/akinLib/src/Controller/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/akin_lib.site/akinLib/src/Controller/HomeController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/akin_lib.site/akinLib/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/akin_lib.site/akinLib/symfony.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/akin_lib.site/akinLib/templates/public/publicpage.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/akin_lib.site/akinLib/templates/public/publicpage.html.twig" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +103,7 @@
         <entry file="file://$PROJECT_DIR$/akin_lib.site/akinLib/src/Controller/HomeController.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="525">
-              <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+              <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
               <folding>
                 <element signature="e#6#97#0#PHP" expanded="true" />
                 <element signature="e#127#174#0#PHP" expanded="true" />
@@ -119,8 +116,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/akin_lib.site/akinLib/templates/public/publicpage.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="16" />
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#13#27#0#Twig" expanded="true" />
               </folding>
@@ -205,6 +202,7 @@
       <path value="$PROJECT_DIR$/akin_lib.site/akinLib/vendor/symfony/debug-pack" />
       <path value="$PROJECT_DIR$/akin_lib.site/akinLib/vendor/symfony/monolog-bundle" />
       <path value="$PROJECT_DIR$/akin_lib.site/akinLib/vendor/symfony/monolog-bridge" />
+      <path value="$PROJECT_DIR$/akin_lib.site/akinLib/vendor/symfony/asset" />
     </include_path>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
@@ -253,6 +251,13 @@
               <item name="_akin_lib" type="462c0819:PsiDirectoryNode" />
               <item name="akin_lib.site" type="462c0819:PsiDirectoryNode" />
               <item name="akinLib" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_akin_lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_akin_lib" type="462c0819:PsiDirectoryNode" />
+              <item name="akin_lib.site" type="462c0819:PsiDirectoryNode" />
+              <item name="akinLib" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -289,7 +294,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.composer" />
+    <property name="settings.editor.selected.configurable" value="Symfony2.SettingsForm" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -314,16 +319,15 @@
       <option name="presentableId" value="Default" />
       <updated>1562501472877</updated>
       <workItem from="1562501475574" duration="254000" />
-      <workItem from="1562501749038" duration="3467000" />
+      <workItem from="1562501749038" duration="3857000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3721000" />
+    <option name="totallyTimeSpent" value="4111000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -380,7 +384,7 @@
     <entry file="file://$PROJECT_DIR$/akin_lib.site/akinLib/src/Controller/HomeController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
-          <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
           <folding>
             <element signature="e#6#97#0#PHP" expanded="true" />
             <element signature="e#127#174#0#PHP" expanded="true" />
@@ -391,8 +395,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/akin_lib.site/akinLib/templates/public/publicpage.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="16" />
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#13#27#0#Twig" expanded="true" />
           </folding>

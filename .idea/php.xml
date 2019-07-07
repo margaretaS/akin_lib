@@ -57,6 +57,7 @@
       <path value="$PROJECT_DIR$/akin_lib.site/akinLib/vendor/symfony/debug-pack" />
       <path value="$PROJECT_DIR$/akin_lib.site/akinLib/vendor/symfony/monolog-bundle" />
       <path value="$PROJECT_DIR$/akin_lib.site/akinLib/vendor/symfony/monolog-bridge" />
+      <path value="$PROJECT_DIR$/akin_lib.site/akinLib/vendor/symfony/asset" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7" />
