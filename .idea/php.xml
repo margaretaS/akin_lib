@@ -40,6 +40,9 @@
       <path value="$PROJECT_DIR$/akin_lib.site/akinLib/vendor/doctrine/annotations" />
       <path value="$PROJECT_DIR$/akin_lib.site/akinLib/vendor/doctrine/persistence" />
       <path value="$PROJECT_DIR$/akin_lib.site/akinLib/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/akin_lib.site/akinLib/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/akin_lib.site/akinLib/vendor/symfony/http-client" />
+      <path value="$PROJECT_DIR$/akin_lib.site/akinLib/vendor/sensiolabs/security-checker" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7" />
