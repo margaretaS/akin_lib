@@ -10,9 +10,10 @@ namespace App\Controller;
 
 
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
+use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\Response;
 
-class HomeController
+class HomeController extends AbstractController
 {
     /**
      * @Route("/")
@@ -25,9 +26,10 @@ class HomeController
      * @Route("/public/{slug}")
      */
     public function publicpage($slug) {
-        return new Response(sprintf(
-            'This is a public page: %s',
-            $slug)
-        );
+
+        return $this->render('public/publicpage.html.twig', [
+            'title' => $slug
+        ]);
+
     }
 }

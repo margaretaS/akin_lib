@@ -40,9 +40,13 @@
       <excludeFolder url="file://$MODULE_DIR$/akin_lib.site/akinLib/vendor/symfony/process" />
       <excludeFolder url="file://$MODULE_DIR$/akin_lib.site/akinLib/vendor/symfony/routing" />
       <excludeFolder url="file://$MODULE_DIR$/akin_lib.site/akinLib/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/akin_lib.site/akinLib/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/akin_lib.site/akinLib/vendor/symfony/twig-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/akin_lib.site/akinLib/vendor/symfony/twig-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/akin_lib.site/akinLib/vendor/symfony/var-exporter" />
       <excludeFolder url="file://$MODULE_DIR$/akin_lib.site/akinLib/vendor/symfony/web-server-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/akin_lib.site/akinLib/vendor/symfony/yaml" />
+      <excludeFolder url="file://$MODULE_DIR$/akin_lib.site/akinLib/vendor/twig/twig" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
