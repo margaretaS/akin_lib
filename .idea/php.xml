@@ -47,6 +47,10 @@
       <path value="$PROJECT_DIR$/akin_lib.site/akinLib/vendor/symfony/twig-bundle" />
       <path value="$PROJECT_DIR$/akin_lib.site/akinLib/vendor/symfony/twig-bridge" />
       <path value="$PROJECT_DIR$/akin_lib.site/akinLib/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/akin_lib.site/akinLib/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/akin_lib.site/akinLib/vendor/symfony/profiler-pack" />
+      <path value="$PROJECT_DIR$/akin_lib.site/akinLib/vendor/symfony/web-profiler-bundle" />
+      <path value="$PROJECT_DIR$/akin_lib.site/akinLib/vendor/symfony/var-dumper" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7" />

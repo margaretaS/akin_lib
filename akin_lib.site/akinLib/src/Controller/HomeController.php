@@ -26,6 +26,7 @@ class HomeController extends AbstractController
      * @Route("/public/{slug}")
      */
     public function publicpage($slug) {
+        dump($slug, $this);
 
         return $this->render('public/publicpage.html.twig', [
             'title' => $slug

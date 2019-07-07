@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4276b29b-3b1f-41e2-91aa-2d4cd5f41387" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/akin_lib.site/akinLib/templates/public/publicpage.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/_akin_lib.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/_akin_lib.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akin_lib.site/akinLib/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/akin_lib.site/akinLib/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akin_lib.site/akinLib/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/akin_lib.site/akinLib/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akin_lib.site/akinLib/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/akin_lib.site/akinLib/config/bundles.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/akin_lib.site/akinLib/src/Controller/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/akin_lib.site/akinLib/src/Controller/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akin_lib.site/akinLib/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/akin_lib.site/akinLib/symfony.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akin_lib.site/akinLib/templates/public/publicpage.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/akin_lib.site/akinLib/templates/public/publicpage.html.twig" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,17 +48,17 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="php" value="309" />
-          <entry key="twig" value="95" />
+          <entry key="php" value="328" />
+          <entry key="twig" value="122" />
           <entry key="txt" value="14" />
           <entry key="yaml" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PHP" value="309" />
+          <entry key="PHP" value="328" />
           <entry key="PLAIN_TEXT" value="14" />
-          <entry key="Twig" value="95" />
+          <entry key="Twig" value="122" />
           <entry key="YAML" value="12" />
         </counts>
       </usages-collector>
@@ -101,8 +104,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/akin_lib.site/akinLib/src/Controller/HomeController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+            <state relative-caret-position="510">
+              <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
               <folding>
                 <element signature="e#6#97#0#PHP" expanded="true" />
                 <element signature="e#127#186#0#PHP" expanded="true" />
@@ -115,8 +118,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/akin_lib.site/akinLib/templates/public/publicpage.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            <state relative-caret-position="90">
+              <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
               <folding>
                 <element signature="e#13#27#0#Twig" expanded="true" />
               </folding>
@@ -191,6 +194,10 @@
       <path value="$PROJECT_DIR$/akin_lib.site/akinLib/vendor/symfony/twig-bundle" />
       <path value="$PROJECT_DIR$/akin_lib.site/akinLib/vendor/symfony/twig-bridge" />
       <path value="$PROJECT_DIR$/akin_lib.site/akinLib/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/akin_lib.site/akinLib/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/akin_lib.site/akinLib/vendor/symfony/profiler-pack" />
+      <path value="$PROJECT_DIR$/akin_lib.site/akinLib/vendor/symfony/web-profiler-bundle" />
+      <path value="$PROJECT_DIR$/akin_lib.site/akinLib/vendor/symfony/var-dumper" />
     </include_path>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
@@ -300,12 +307,12 @@
       <option name="presentableId" value="Default" />
       <updated>1562501472877</updated>
       <workItem from="1562501475574" duration="254000" />
-      <workItem from="1562501749038" duration="2635000" />
+      <workItem from="1562501749038" duration="3119000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2889000" />
+    <option name="totallyTimeSpent" value="3373000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -365,8 +372,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/akin_lib.site/akinLib/src/Controller/HomeController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+        <state relative-caret-position="510">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
           <folding>
             <element signature="e#6#97#0#PHP" expanded="true" />
             <element signature="e#127#186#0#PHP" expanded="true" />
@@ -377,8 +384,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/akin_lib.site/akinLib/templates/public/publicpage.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        <state relative-caret-position="90">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
           <folding>
             <element signature="e#13#27#0#Twig" expanded="true" />
           </folding>
